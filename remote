@@ -1,10 +1,10 @@
 {
     "Message": "Attention this app has been Disabled by Developer due to some issue not paying the source code or using without permission so until then you won't be able to use this app Thank You!,  Directly contact Developer Gmail: jmgc.care95@gmail.com, WhatsApp +639367358900, Telegram @jmgc_tv\n\nAffected Source Code that has been disabled JMGC.",
-        "com.twentyfourt.pro": true,
-        "com.rksoft.twentyfour.tunnel.vip": true,
-        "app.dev.soft.pakhinetvip": true,
-        "com.jx.advancevipnet.xy": true,
-        "dev.rocket.dxvip.vpn": true, 
+        "com.twentyfourt.pro": false,
+        "com.rksoft.twentyfour.tunnel.vip": false,
+        "app.dev.soft.pakhinetvip": false,
+        "com.jx.advancevipnet.xy": false,
+        "dev.rocket.dxvip.vpn": false, 
         "com.jmgc.ovpntunnel": false, 
         "kingmik.cs.dataservice": false
 }
